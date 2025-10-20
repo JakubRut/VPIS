@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VirtualPropertyInvestmentSimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b6ec767265b4b8419e2e6eae2fc93f81cbc7570")]
 [assembly: System.Reflection.AssemblyProductAttribute("VirtualPropertyInvestmentSimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VirtualPropertyInvestmentSimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
