@@ -1,0 +1,22 @@
+# Visual Studio folders
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+.vsidx
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Build outputs
+*.exe
+*.dll
+
+# Database
+*.db
+*.db-shm
+*.db-wal
